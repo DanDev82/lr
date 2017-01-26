@@ -1,3 +1,3 @@
 <footer>
-  &copy; Outreach Dialer/Developer. All rights reserved.
+  &copy; 2016 Daniel Coria
 </footer>

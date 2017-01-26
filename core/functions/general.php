@@ -10,4 +10,4 @@ function output_errors($errors) {
   }
   return '<ul>' . implode('', $output) . '</ul>';
 }
- ?>
+?>
